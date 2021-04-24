@@ -10,5 +10,5 @@ Native mobile application for android created in Android Studio with Java for gy
 4. Customize your appointment by selecting an hour and the gym where you will have your appintment (that gym's clients will then become selectable in the next box)
 5. View your full list of appointments
 6. View your full list of gyms
-7. Add gyms to your list
+7. Add gyms to your gym list
 8. Add clients to each gym
