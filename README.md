@@ -1,4 +1,4 @@
-# GymBuddy
+# GymBuddy - Gym Management App for Trainers
 
 Native mobile application for android created in Android Studio with Java, intended for gym trainers, in order to easily and efficiently keep track of their schedule, clients, gyms and appointments.
 
