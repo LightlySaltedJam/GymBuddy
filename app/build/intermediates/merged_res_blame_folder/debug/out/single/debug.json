@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gym_buddy_logo_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\gym_buddy_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_third.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_gym_buddy_logo2_round.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-anydpi-v26\\gym_buddy_logo2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gym_buddy_logo_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\gym_buddy_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gym_buddy_logo2_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\gym_buddy_logo2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_gym_buddy_logo2.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-anydpi-v26\\gym_buddy_logo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gym_buddy_logo2.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\gym_buddy_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_menu.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_world_class_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\world_class_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_gym_buddy_logo_round.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-anydpi-v26\\gym_buddy_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_default_view.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\default_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gym_buddy_logo_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\gym_buddy_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_royal_fitness_clib_logo.jpg.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\royal_fitness_clib_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_gym.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_new_gym.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add_gym_bg.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\add_gym_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gym_buddy_logo2_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\gym_buddy_logo2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gym_buddy_logo_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\gym_buddy_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_profile_pic.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_profile_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gym.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_gym.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gym_buddy_logo_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\gym_buddy_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\navigation_my_nav.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\navigation\\my_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_client_row.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\client_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gym.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_gym.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gym_buddy_logo2.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\gym_buddy_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vikings_gym_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\vikings_gym_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gym_buddy_logo2.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\gym_buddy_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profile_pic.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_gym.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_gym.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sign_up_bg.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\sign_up_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_bg.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\home_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gym_buddy_logo_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\gym_buddy_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gym_buddy_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\gym_buddy_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\font_loki_regular.ttf.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\font\\loki_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gym_buddy_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\gym_buddy_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\font_trajan_pro_regular.ttf.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\font\\trajan_pro_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gym_buddy_logo2_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\gym_buddy_logo2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gym_buddy_logo_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\gym_buddy_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_profile_pic.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gym_buddy_logo_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\gym_buddy_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_menu.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stay_fit_logo.jpg.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\stay_fit_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_welcome_bg.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\welcome_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gym_buddy_logo2.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\gym_buddy_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_text_box.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable\\rounded_text_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gym_buddy_logo_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\gym_buddy_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profile_pic.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_menu.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gym_buddy_logo2_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\gym_buddy_logo2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gym_buddy_logo_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\gym_buddy_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_menu.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profile_pic.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gym_buddy_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\gym_buddy_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gema_fitness_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\gema_fitness_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_current_view.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\current_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gym_buddy_logo2.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\gym_buddy_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gym_buddy_logo2_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\gym_buddy_logo2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gym_buddy_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\gym_buddy_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_menu.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_menu.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gym.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_gym.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selected_royal_fitness_club.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_selected_royal_fitness_club.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_gym_buddy_logo.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-anydpi-v26\\gym_buddy_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_my_gyms_bg.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable-v24\\my_gyms_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selected_world_class.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_selected_world_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gym_buddy_logo2_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxhdpi\\gym_buddy_logo2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gym_buddy_logo.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-hdpi\\gym_buddy_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gym_buddy_logo2_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\gym_buddy_logo2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gym_buddy_logo2_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\gym_buddy_logo2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_menu.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gym_buddy_logo2_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-xhdpi\\gym_buddy_logo2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gym_buddy_logo2_round.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-mdpi\\gym_buddy_logo2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_gym.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_gym.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gym.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gym.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gym.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gym.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profile_pic.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profile_pic.png.flat",
+        "source": "C:\\Users\\iaman\\AndroidStudioProjects\\GymBuddy - Working Calendar - 18.01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_profile_pic.png"
+    }
+]
